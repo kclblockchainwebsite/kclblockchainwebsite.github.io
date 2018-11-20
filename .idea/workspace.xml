@@ -2,7 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0af37aa2-8d84-4f7c-ad87-30db8dba9603" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/elements.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/generic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/logo.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/About_Us.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/About_us.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Article 1.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Article 10.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Article 11.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Article 12.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Article 2.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Article 3.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Article 4.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Article 5.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Article 6.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Article 7.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Article 8.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Article 9.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Articles.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Blog.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Blog.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ContactUs.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/ContactUs.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Events.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Events.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Home.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Reports.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Teams.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Teams.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Article10Image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Article11Image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Article11Image2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Article12Image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Article1Image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Article2Image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Article3Image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Article4Image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Article5Image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Article6Image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Article7Image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Article8Image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Article9Image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/BlockChainConnector.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Blockchain logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/GlobalBlockChainConsotoruimLogo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Government&amp;LegalLogo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/IndustryLogo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/InvestInCryptoLogo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Logo colour_white text.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/NewsLogo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/OceanChainLogo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/TRXX NetworkLogo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/Tech&amp;InvestmentLogo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/blockchainlogo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/kcl logo.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,41 +75,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Events.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Events.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="245" column="0" lean-forward="false" selection-start-line="245" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Home.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Events.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Events.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="95" column="25" lean-forward="true" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+            <state relative-caret-position="110">
+              <caret line="42" column="106" lean-forward="false" selection-start-line="42" selection-start-column="106" selection-end-line="42" selection-end-column="106" />
               <folding />
             </state>
           </provider>
@@ -92,6 +121,7 @@
       <find>more</find>
       <find>even</find>
       <find>c</find>
+      <find>html5</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -133,8 +163,8 @@
         <option value="$PROJECT_DIR$/Home.css" />
         <option value="$PROJECT_DIR$/Blog.html" />
         <option value="$PROJECT_DIR$/Blog.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Events.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -164,18 +194,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="KCL-Blockchain-Website1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="KCL-Blockchain-Website1" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -187,6 +205,18 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kclblockchainwebsite.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kclblockchainwebsite.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -198,6 +228,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/macbookpro/Desktop/Block chain website/ContactUs.css" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -281,14 +316,16 @@
       <workItem from="1527208875048" duration="12000" />
       <workItem from="1527268681396" duration="231000" />
       <workItem from="1528282465358" duration="98000" />
+      <workItem from="1542756376316" duration="322000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132651000" />
+    <option name="totallyTimeSpent" value="132973000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="730" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16362192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -586,7 +623,7 @@
     <entry file="file://$PROJECT_DIR$/Events.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1425">
-          <caret line="95" column="25" lean-forward="true" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
+          <caret line="95" column="25" lean-forward="false" selection-start-line="95" selection-start-column="25" selection-end-line="95" selection-end-column="25" />
           <folding />
         </state>
       </provider>
@@ -601,7 +638,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Events.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
+        <state relative-caret-position="3675">
           <caret line="245" column="0" lean-forward="false" selection-start-line="245" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
           <folding />
         </state>
@@ -609,8 +646,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+        <state relative-caret-position="110">
+          <caret line="42" column="106" lean-forward="false" selection-start-line="42" selection-start-column="106" selection-end-line="42" selection-end-column="106" />
           <folding />
         </state>
       </provider>

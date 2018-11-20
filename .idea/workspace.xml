@@ -2,66 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0af37aa2-8d84-4f7c-ad87-30db8dba9603" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/LICENSE.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/elements.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/generic.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/logo.png" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/About_Us.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/About_us.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Article 1.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Article 10.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Article 11.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Article 12.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Article 2.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Article 3.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Article 4.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Article 5.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Article 6.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Article 7.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Article 8.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Article 9.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Articles.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Blog.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Blog.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ContactUs.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ContactUs.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Events.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Events.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Home.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Reports.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Teams.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Teams.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Article10Image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Article11Image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Article11Image2.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Article12Image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Article1Image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Article2Image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Article3Image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Article4Image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Article5Image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Article6Image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Article7Image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Article8Image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Article9Image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/BlockChainConnector.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Blockchain logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/GlobalBlockChainConsotoruimLogo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Government&amp;LegalLogo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/IndustryLogo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/InvestInCryptoLogo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Logo colour_white text.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/NewsLogo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/OceanChainLogo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/TRXX NetworkLogo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/Tech&amp;InvestmentLogo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/blockchainlogo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/kcl logo.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/images/logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -316,16 +257,15 @@
       <workItem from="1527208875048" duration="12000" />
       <workItem from="1527268681396" duration="231000" />
       <workItem from="1528282465358" duration="98000" />
-      <workItem from="1542756376316" duration="322000" />
+      <workItem from="1542756376316" duration="469000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132973000" />
+    <option name="totallyTimeSpent" value="133120000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="730" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16362192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -334,7 +274,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2491951" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
